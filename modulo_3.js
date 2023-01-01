@@ -1,6 +1,4 @@
-<meta charset="UTF-8">
 
-<script>
 	var ano = 2020;
 	var pai = "Ramon";
 	var mae = "Samara";
@@ -24,4 +22,3 @@
 
 	document.write("<br>A média das idades é " + Math.round(mediaIdades) + "<br>");
 
-</script>

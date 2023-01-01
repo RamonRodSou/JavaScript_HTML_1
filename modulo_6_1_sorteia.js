@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
     function pularLinha(){
         document.write("<br>");
@@ -36,4 +33,3 @@
             imprimir("<big> Infelizmente não foi dessa vez: o numero escolhido era " + numeroAleatorio +" <br>" + numeroAleatorio + 
                 " é menor que  "+ numeroUsuario + " </big><br>")
             }
-</script>

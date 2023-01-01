@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
 	function pularLinha() {
 
@@ -37,5 +34,3 @@
 	var mediaIdades = (idadeRamon + idadeSamara + idadeAntonio + idadeEloisa)/4;
 
 	imprimir("<br>A média das idades é " + Math.round(mediaIdades));
-
-</script>

@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
     function pularLinha() {
         document.write("<br>");
@@ -38,8 +35,3 @@
 
     
     }
-    
-    
-    
-
-</script>

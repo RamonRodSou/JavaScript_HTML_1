@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
     // comando aprenseta esse resultado:  @Flavio (Almeida)@ 
 
@@ -36,4 +33,3 @@
 
     imprimir(resultado);
 
-</script>

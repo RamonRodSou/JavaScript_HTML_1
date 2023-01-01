@@ -1,5 +1,3 @@
-<meta charset="UTF-8">
-<script>
 
 	function pularLinha() {
 		document.write("<br><hr><br>");
@@ -16,6 +14,3 @@
 
 	imprimir("Ramon tem " + idadeRamon + " anos.");
 	imprimir ("Samara tem " + idadeSamara + " anos.");
-
-
-</script>

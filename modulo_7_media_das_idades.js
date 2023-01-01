@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
 //Nosso objetivo é calcular a média das idades de nossos familiares, 
 //e utilizaremos nomes e idades fictícios, os quais serão inseridos na forma de variáveis:
@@ -26,4 +23,3 @@
     var mediaDasIdades = totalIdades/totalFamiliares
         imprimir("A média das idades dos familiares é " + mediaDasIdades);
         imprimir("FIM");
-</script>

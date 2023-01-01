@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
 	function pularLinha() {
 
@@ -32,5 +29,3 @@
 	imprimir ("<big> O Imc do Ramon é </big><big>" + Math.round(imcRamon) + "</big>");
 	imprimir ("<big> O Imc da Samara é </big><big>" + Math.round(imcSamara) + "</big>");
 	imprimir ("<big> A Soma dos Imc's é </big><big>" + Math.round(somaDosImcs) + "</big>");
-
-</script>

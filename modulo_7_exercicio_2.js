@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
 // imprimir em ordem decrescente todos os números entre 20 e 0, 
 // incluindo os limites! No final, escreva a palavra "FIM".
@@ -23,4 +20,3 @@
     }
 
     mostra("FIM");
-</script>

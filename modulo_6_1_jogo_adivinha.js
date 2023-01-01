@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
     function pularLinha(){
         document.write("<br>");
@@ -26,4 +23,3 @@
 
         imprimir("<big> NÂO FOI DESSA VEZ, O NUMERO ERA: " + numeroAleatorio +"</big>")
     }
-</script>

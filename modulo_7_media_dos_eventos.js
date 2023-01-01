@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
     function pularLinha() {
         document.write("<br>");
@@ -29,4 +26,3 @@
     var media = totalGastoComEventos / totalDeEventos;
 
     imprimir("A média de gastos é " + media);
-</script>

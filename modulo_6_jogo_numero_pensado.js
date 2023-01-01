@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
     function pularLinha(){
         document.write("<br");
@@ -24,5 +21,3 @@
 
         imprimir("<big> Você errou, tente novamente </big>");
     }
-
-</script>

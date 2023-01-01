@@ -1,9 +1,4 @@
-<meta charset="UTF-8">
-
-<script>
-
-
-    function pularLinha() {
+ function pularLinha() {
         document.write("<br>");
     }
 
@@ -45,6 +40,3 @@
     //    tentativaAtual = tentativaAtual +1  
     }
 
-
-
-</script>

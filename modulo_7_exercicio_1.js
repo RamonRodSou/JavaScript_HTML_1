@@ -1,6 +1,4 @@
-<meta charset="UTF-8">
 
-<script>
 //Roberta quer uma dificuldade um pouco maior em seu programa. Agora ela p
 //recisa imprimir todos os números entre 30 e 40 (inclusive 30 e 40), 
 //porém os números 33 e 37 não devem ser impressos! No final,
@@ -33,4 +31,3 @@
         }
       }
     imprimir("fim");
-</script>

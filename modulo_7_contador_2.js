@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
     function pularLinha(){
 
@@ -20,4 +17,3 @@
     }
 
     imprimir("fim");
-</script>

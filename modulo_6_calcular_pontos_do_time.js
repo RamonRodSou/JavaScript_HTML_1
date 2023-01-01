@@ -1,7 +1,4 @@
-<meta charset="UTF-8">
 
-<script>
-	
 	function pularLinha(){
 
 		document.write ("<br>");
@@ -39,4 +36,3 @@
 		imprimir("<big>"+ time + " tá igual ao ano passado.</big>");
 	}
 
-</script>

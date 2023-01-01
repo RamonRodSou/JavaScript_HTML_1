@@ -1,6 +1,3 @@
-<meta charset="UTF-8">
-
-<script>
 
 	function pularLinha() {
 
@@ -27,5 +24,3 @@
     var somaDosImcs = calculoImc(peso,altura);
 
 	imprimir ("<big> " + nome + " o seu Imc é " + Math.round(somaDosImcs) + "</big>");
-
-</script>
